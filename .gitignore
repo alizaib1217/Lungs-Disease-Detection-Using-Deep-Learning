@@ -25,6 +25,7 @@ wheels/
 *.egg
 MANIFEST
 Preprocessed-50-50-20.npy
+Preprocessed-50-50-20.npy
 model.ckpt.data-00000-of-00001
 Saved_weights/
 # PyInstaller
